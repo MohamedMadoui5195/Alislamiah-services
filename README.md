@@ -569,5 +569,3 @@ setTimeout(function(){
 
 </body>
 </html>
-
-بعد وضع الكود، ضع "icon.png" في نفس مجلد ملف HTML حتى يظهر اللوجو بشكل صحيح.
